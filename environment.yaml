@@ -1,6 +1,6 @@
 # A conda environment for the GSA short course.
 
-name: gsa
+name: LLTB_clinic
 channels:
   - conda-forge
 dependencies:
@@ -13,3 +13,5 @@ dependencies:
   - pymt_hydrotrend
   - pymt_sedflux
   - tqdm
+  - bmi-topography
+  - imageio
