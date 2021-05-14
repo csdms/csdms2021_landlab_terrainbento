@@ -27,9 +27,10 @@ This clinic provides a brief tutorial introduction to the theory and implementat
 
 | Time (ET)      | Topic                       | Presenter                |
 | -------------: | --------------------------- | -----------              |
-| 11:00 - 11:55  | Landlab                     | Campforts & Gabel        |
+| 11:00 - 11:05  | Intro                       | Benjamin Campforts       |
+| 11:05 - 11:55  | Landlab                     | Vanessa Gabel            |
 | 11:55 - 12:05  | Break                       |                          |
-| 12:05 - 13:00  | TerrainBento                | Campforts & Gabel        |
+| 12:05 - 13:00  | TerrainBento                | Benjamin Campforts       |
 
 
 ==> [Run the course tutorials on our JupyterHub](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fcsdms2021_landlab_terrainbento&urlpath=tree%2Fcsdms2021_landlab_terrainbento%2F&branch=main)
@@ -60,3 +61,5 @@ A big thanks to those that contributed notebooks to this clinic.
 *  Irina Overeem
 *  Katherine Ratliff
 *  Kang Wang
+*  Eric Hutton
+*  Mark Piper
