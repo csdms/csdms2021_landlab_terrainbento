@@ -32,7 +32,7 @@ This clinic provides a brief tutorial introduction to the theory and implementat
 | 12:05 - 13:00  | TerrainBento                | Campforts & Gabel        |
 
 
-==> [Run the course tutorials on our JupyterHub]()
+==> [Run the course tutorials on our JupyterHub](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fcsdms2021_landlab_terrainbento&urlpath=tree%2Fcsdms2021_landlab_terrainbento%2F&branch=main)
 
 
 ## Links
